@@ -1,8 +1,8 @@
-#Sentence Pretreatment
+# Sentence Pretreatment
 The goal of this repo is to present the method I used to perform pretreatment on the text corpus that I used for my research project. This repo does not contain the data structure nor the extracting algorithm!
 This algorithm has been designed to use [TAC2008](https://tac.nist.gov//2008/index.html) corpus as source data, and text files for testing purposes.
 
-##Installation
+### Installation
 Once you've cloned the repo, you will need to install the nltk Python3 package using `pip3 install -U nltk`.
 Then go into the python3 terminal and execute the following:
 ```console
@@ -11,7 +11,7 @@ Then go into the python3 terminal and execute the following:
 ```
 Once it's done, you should be good to go.
 
-##Using the code
+### Using the code
 This code has been designed to run with Python3 using the following command:
 ```console
 python3 [path] [xmlMode]
